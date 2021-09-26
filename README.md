@@ -9,3 +9,9 @@
    
 Запуск
 ` gradle clean test `
+
+логин (email) и пароль (password) возможно передать либо через параметры, либо через config/app.properties
+```
+email=
+password=
+```
